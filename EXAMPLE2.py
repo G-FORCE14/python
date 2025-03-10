@@ -1,5 +1,5 @@
 name= input('Enter your name:')
 print('Hello,',name)
 num1 = eval(input('Enter The First Number:'))
-num2 = eval(input('Ener The Second Number:'))
+num2 = eval(input('Enter The Second Number:'))
 print(name,',The average of the numbers you entered is',(num1+num2)/2)
